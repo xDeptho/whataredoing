@@ -1,0 +1,5770 @@
+{
+  "items": [
+    {
+      "name": "Default Knife",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Default Gun",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Glitch1",
+      "rarity": "commons",
+      "value": 75,
+      "demand": 3
+    },
+    {
+      "name": "Glitch2",
+      "rarity": "commons",
+      "value": 50,
+      "demand": 2
+    },
+    {
+      "name": "Bats (Knife)",
+      "rarity": "commons",
+      "value": 135,
+      "demand": 3
+    },
+    {
+      "name": "Ghoulish",
+      "rarity": "commons",
+      "value": 90,
+      "demand": 3
+    },
+    {
+      "name": "Gifts (Knife)",
+      "rarity": "commons",
+      "value": 85,
+      "demand": 2
+    },
+    {
+      "name": "Pine (Knife)",
+      "rarity": "commons",
+      "value": 75,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle9",
+      "rarity": "commons",
+      "value": 30,
+      "demand": 2
+    },
+    {
+      "name": "Snowman Gun",
+      "rarity": "commons",
+      "value": 20,
+      "demand": 2
+    },
+    {
+      "name": "Wrapped Gun",
+      "rarity": "commons",
+      "value": 20,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle10",
+      "rarity": "commons",
+      "value": 20,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle8",
+      "rarity": "commons",
+      "value": 20,
+      "demand": 2
+    },
+    {
+      "name": "Frosted (Knife)",
+      "rarity": "commons",
+      "value": 18,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle7",
+      "rarity": "commons",
+      "value": 18,
+      "demand": 2
+    },
+    {
+      "name": "Elf (Knife)",
+      "rarity": "commons",
+      "value": 17,
+      "demand": 2
+    },
+    {
+      "name": "RIP",
+      "rarity": "commons",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Snowflakes (Gun)",
+      "rarity": "commons",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "CandyCorn 2017",
+      "rarity": "commons",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Coal (Knife)",
+      "rarity": "commons",
+      "value": 12,
+      "demand": 2
+    },
+    {
+      "name": "Webbed (Gun)",
+      "rarity": "commons",
+      "value": 12,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle6",
+      "rarity": "commons",
+      "value": 12,
+      "demand": 2
+    },
+    {
+      "name": "Combat II",
+      "rarity": "commons",
+      "value": 10,
+      "demand": 2
+    },
+    {
+      "name": "Ecto",
+      "rarity": "commons",
+      "value": 10,
+      "demand": 2
+    },
+    {
+      "name": "Prism",
+      "rarity": "commons",
+      "value": 10,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle4",
+      "rarity": "commons",
+      "value": 10,
+      "demand": 2
+    },
+    {
+      "name": "Phantom",
+      "rarity": "commons",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Skool",
+      "rarity": "commons",
+      "value": 8,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle5",
+      "rarity": "commons",
+      "value": 8,
+      "demand": 2
+    },
+    {
+      "name": "Tailslide",
+      "rarity": "commons",
+      "value": 8,
+      "demand": 2
+    },
+    {
+      "name": "Pumpkin (2019)",
+      "rarity": "commons",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Ollie",
+      "rarity": "commons",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Sidewinder",
+      "rarity": "commons",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Zombie",
+      "rarity": "commons",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Mummified",
+      "rarity": "commons",
+      "value": 5,
+      "demand": 2
+    },
+    {
+      "name": "Euro",
+      "rarity": "commons",
+      "value": 4,
+      "demand": 2
+    },
+    {
+      "name": "Sketchy",
+      "rarity": "commons",
+      "value": 4,
+      "demand": 2
+    },
+    {
+      "name": "Grave (Gun)",
+      "rarity": "commons",
+      "value": 4,
+      "demand": 1
+    },
+    {
+      "name": "Slime (Knife)",
+      "rarity": "commons",
+      "value": 4,
+      "demand": 1
+    },
+    {
+      "name": "CandyCorn (2019)",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Alex",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Corl",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Denis",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Starry",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Sub",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Ghosty",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle1",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle2",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle3",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Asteroid",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Slime (Gun)",
+      "rarity": "commons",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Slimy",
+      "rarity": "commons",
+      "value": 2,
+      "demand": 2
+    },
+    {
+      "name": "Grind",
+      "rarity": "commons",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Indy",
+      "rarity": "commons",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Elf (2018)",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Bats (Gun)",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Grave (Knife)",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Haunted (Gun)",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Haunted (Knife)",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Bones",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Brains",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Witch",
+      "rarity": "commons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "2015",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Blossom",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bunny",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Carrot",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Choco",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Egg",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Elf (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Goo",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hearts",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ornament",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ornament1",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ornament2 (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ornament2 (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Passion",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Patrick",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Reptile",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Roses",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Santa (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Santa (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Sweetheart",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Tulip",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Valentine",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Infected",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Neon",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "TNL",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Apocalypse (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Apocalypse (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Bats (2020)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frosted (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Infected (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Infected (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Slashed",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gifts (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowflakes (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Webbed (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Toy (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gift Bag (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Hunter",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ribbons",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Fragile (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Fragile (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "RB Knife",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pine (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Love 2023",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cane 2021 (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Coal 2021 (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Etched",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ornaments (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Scarf",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candied (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Moon",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gift Bag (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Aliens",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Coal (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cracks (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pumpkin (2023)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowman 2022 (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Vines (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Webs",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cat",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Coal 2022 (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Darkness (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Penguin",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Reindeer",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ribbon",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Toy (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wavy (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ghosts (2023)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candle",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Carrots",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Carved (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Carved (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Chick",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Coal",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Coal 2021 (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Elf 2017",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frozen (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gifts (2024)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Hot Chocolate",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Igloo (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ornaments (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Present",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Present (2023)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Santa",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Santa (2023)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Watcher (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Bats Gun (2024)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candles",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wavy (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cats",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Clownfish (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Haunted (2025)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "UFOs (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Candied (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cane 2021 (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Coal 2022 (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cracks (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Darkness (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Giftwrap",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Haunted",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Santa (2018)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowman (2018)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Stockings",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Trees",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Watcher (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wrapped (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Eyeball",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Leaves",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowman 2022 (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Spider (2023)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Striped (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Vines (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wood",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Balloons",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bats Knife (2024)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bells",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Clownfish (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Coconut",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Dolphins",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Elf (2023)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Fall",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Frozen (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ghosts (2024)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hallows Stickers 2022",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hearts (2026)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Igloo (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Leaves",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Lights (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Lights (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Peppermint (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Peppermint (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Plaid",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Reindeer",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Sandy (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Skyline",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowball (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowball (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowfall",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Starfish (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Starfish (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stickers",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stockings (2024)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Strawberries (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Strawberries (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Striped (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "UFOs (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Xbox",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Clown (Gun)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Clown (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "8Bit",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Aqua",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Big Kill",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bit",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bleached",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Borders",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Brown",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cardboard",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cherry",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Clan",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cold",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Combat",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Copper",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Eco",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Engraved",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Fallout",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Green",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hardened",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "HL2",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ice",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Infiltrator",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Iron",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Juice",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Leaf",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Linked",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Log",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Love (Knife)",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Lovely",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "News",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Oily",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Orange",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Pea",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Sandy",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Shaded",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Slate",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Splat",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Splatter",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stainless",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Star",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Static",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Whiteout",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Yellow",
+      "rarity": "commons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bones",
+      "rarity": "uncommons",
+      "value": 140,
+      "demand": 3
+    },
+    {
+      "name": "Zombified (Knife)",
+      "rarity": "uncommons",
+      "value": 80,
+      "demand": 3
+    },
+    {
+      "name": "Brains",
+      "rarity": "uncommons",
+      "value": 60,
+      "demand": 3
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "rarity": "uncommons",
+      "value": 55,
+      "demand": 3
+    },
+    {
+      "name": "Sweater (Knife)",
+      "rarity": "uncommons",
+      "value": 55,
+      "demand": 3
+    },
+    {
+      "name": "Branches",
+      "rarity": "uncommons",
+      "value": 30,
+      "demand": 2
+    },
+    {
+      "name": "Snowflake",
+      "rarity": "uncommons",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Zombified (Gun)",
+      "rarity": "uncommons",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Skulls",
+      "rarity": "uncommons",
+      "value": 13,
+      "demand": 3
+    },
+    {
+      "name": "Void",
+      "rarity": "uncommons",
+      "value": 10,
+      "demand": 2
+    },
+    {
+      "name": "Zombie (Gun)",
+      "rarity": "uncommons",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Frozen (Gun)",
+      "rarity": "uncommons",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Lights (Gun)",
+      "rarity": "uncommons",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Mummy 2018 (Gun)",
+      "rarity": "uncommons",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Potion (Knife)",
+      "rarity": "uncommons",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Gothic (Gun)",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Webs",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Pumpkin Pie",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Holly (Gun)",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Potion (2017)",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Potion (Gun)",
+      "rarity": "uncommons",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Frozen (Knife)",
+      "rarity": "uncommons",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Mummy (2017)",
+      "rarity": "uncommons",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Mummy 2018 (Knife)",
+      "rarity": "uncommons",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Zombie (Knife)",
+      "rarity": "uncommons",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Zombie",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Steel (Gun)",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Wrap (Gun)",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Wrap (Knife)",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Lights (Knife)",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Moons",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Vampire",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Wolf",
+      "rarity": "uncommons",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Gothic (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Nutcracker",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowman (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowman (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowy",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wrapped (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wrapped (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Gifted",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hazard (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Stars (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Zombie (2023)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowman (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Tree (2021)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Lantern",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Meltdown",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cookie (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Moonlight",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pool Noodle",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowflake 2022 (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Hazard (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Love (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Steel (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Mistletoe (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wraiths (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gingerheart",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Rose",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wrapped Gun (2024)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frosty",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Holly (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Carrot (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Clown Gun (2024)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Fireplace",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Forest",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Marble",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Melon",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Mummy 2020 (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowman (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Canes (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Carrot (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Stockings (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Brains 2022",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Carrot",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cookie (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Decorated",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Eyes",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Fall Camo",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Floatie",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gingerbread",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Meadow",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Monster",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Moons (2024)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Mummy 2020 (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Painted (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pumpkin (2025)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowflake (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowflake 2022 (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Sweater (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Treats (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Witchbrew",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wraiths (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Stars (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Sweater",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Tree (2017)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Checkers",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Eclipse",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Future",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Glowy",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Lava (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Night",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Polar Bear",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Pool",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Popsicle",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Soda (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Sweater (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ghostly",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ghosts (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Portal (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pumpkin (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Donut",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Mistletoe (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stockings (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Abduction",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Blossom",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bones (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Canes (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Jellyfish",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Lava (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Leaves",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ornaments",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Paws",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Popsicle (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Pumpkin Patch",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Retro",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowman (2023)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowman (2024)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Soda (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Starry",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Sweater (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Treats (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Turtle",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Witch's Brew",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wrapped Knife (2024)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wreaths",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Doge",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Sketch",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Adurite (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Adurite (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Biogun",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Blue",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bluesteel (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bluesteel (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Brush",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Camo (Gun)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Camo (Knife)",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Caution",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cheddar",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cheesy",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Circuit",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hazmat",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hive",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Jigsaw",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Lucky",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Marina",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Melon",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Missing",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Paper",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Pink",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Pirate",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Red",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Soda",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Stalker",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Tiger",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wanwood",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Wooden",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Graffiti",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "High Tech",
+      "rarity": "uncommons",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cane Knife (2018)",
+      "rarity": "rares",
+      "value": 925,
+      "demand": 4
+    },
+    {
+      "name": "Dungeon",
+      "rarity": "rares",
+      "value": 80,
+      "demand": 3
+    },
+    {
+      "name": "Silent Night (Knife)",
+      "rarity": "rares",
+      "value": 50,
+      "demand": 2
+    },
+    {
+      "name": "Darkknife",
+      "rarity": "rares",
+      "value": 40,
+      "demand": 3
+    },
+    {
+      "name": "Makeshift (Knife)",
+      "rarity": "rares",
+      "value": 35,
+      "demand": 3
+    },
+    {
+      "name": "Zombified",
+      "rarity": "rares",
+      "value": 35,
+      "demand": 3
+    },
+    {
+      "name": "Starry (Gun)",
+      "rarity": "rares",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Swirl",
+      "rarity": "rares",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Aurora (Knife)",
+      "rarity": "rares",
+      "value": 12,
+      "demand": 2
+    },
+    {
+      "name": "Silent Night (Gun)",
+      "rarity": "rares",
+      "value": 12,
+      "demand": 2
+    },
+    {
+      "name": "Floral (Knife)",
+      "rarity": "rares",
+      "value": 10,
+      "demand": 2
+    },
+    {
+      "name": "Magma (Gun)",
+      "rarity": "rares",
+      "value": 8,
+      "demand": 2
+    },
+    {
+      "name": "Icicles (Gun)",
+      "rarity": "rares",
+      "value": 8,
+      "demand": 2
+    },
+    {
+      "name": "Watcher (Gun)",
+      "rarity": "rares",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Toxic (Knife)",
+      "rarity": "rares",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Vampire (Gun)",
+      "rarity": "rares",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Candy Swirl (Gun)",
+      "rarity": "rares",
+      "value": 5,
+      "demand": 2
+    },
+    {
+      "name": "Magma",
+      "rarity": "rares",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Ghastly (Gun)",
+      "rarity": "rares",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Jack",
+      "rarity": "rares",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Snakebite (Knife)",
+      "rarity": "rares",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Sun",
+      "rarity": "rares",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Bats",
+      "rarity": "rares",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Monster",
+      "rarity": "rares",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Ghostfire",
+      "rarity": "rares",
+      "value": 2,
+      "demand": 2
+    },
+    {
+      "name": "Green Marble",
+      "rarity": "rares",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Orange Marble",
+      "rarity": "rares",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Toxic (Gun)",
+      "rarity": "rares",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Darkgun",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Snowflakes",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Gingerbread",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Aurora (Gun)",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Candy Swirl (Knife)",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Snakebite (Gun)",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Vampire (Knife)",
+      "rarity": "rares",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Starry (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wraith (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cane (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cane (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ginger (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ginger (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Mummy",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Cane 2018 (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Molten (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Molten (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Snowy",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Nuke",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Magma (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Watcher (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Icicles (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Butterflies",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ghastly (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Heart",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Neon",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Painted (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Candleflame (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Damp",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frostflame (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ice Camo",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Logcutter",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Nether",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Spitfire",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Wraith (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Tree (2023)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Tree (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Bio",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Bones (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Curse",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frostflame (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ghosts (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gingercookie (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Gingercookie (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Hologram (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pop Art (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Sharky",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Spearmint (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Spearmint (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Spring",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Storm",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Sunny",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Tropical",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Xeno (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Hologram (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Neon",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Pop Art (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Portal (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Robot",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Tree (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Xeno (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Heartbreak",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Kraken",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ritual",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowflake",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Snowglobe",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Yummy",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Floral (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Sleigh",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Waves",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Black",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Abstract",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Ace",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Bacon",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Galactic",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Galaxy",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Hacker",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Imbued",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "iRevolver",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Korblox",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Krypto",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Musical",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Nightfire",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Nova",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Purple",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Rainbow (Gun)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Rainbow (Knife)",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Space",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Spectrum",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Squire",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Vortex",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Deep Sea",
+      "rarity": "rares",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "JD",
+      "rarity": "legendaries",
+      "value": 35,
+      "demand": 2
+    },
+    {
+      "name": "Latte (Gun)",
+      "rarity": "legendaries",
+      "value": 130,
+      "demand": 3
+    },
+    {
+      "name": "Latte (Knife)",
+      "rarity": "legendaries",
+      "value": 130,
+      "demand": 3
+    },
+    {
+      "name": "Spectral (Knife)",
+      "rarity": "legendaries",
+      "value": 50,
+      "demand": 3
+    },
+    {
+      "name": "Traveler (Gun)",
+      "rarity": "legendaries",
+      "value": 50,
+      "demand": 3
+    },
+    {
+      "name": "Aurora (Gun)",
+      "rarity": "legendaries",
+      "value": 45,
+      "demand": 3
+    },
+    {
+      "name": "Vampire (Gun)",
+      "rarity": "legendaries",
+      "value": 45,
+      "demand": 3
+    },
+    {
+      "name": "Cotton Candy",
+      "rarity": "legendaries",
+      "value": 40,
+      "demand": 2
+    },
+    {
+      "name": "Beach",
+      "rarity": "legendaries",
+      "value": 30,
+      "demand": 2
+    },
+    {
+      "name": "Cavern (Knife)",
+      "rarity": "legendaries",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Broken",
+      "rarity": "legendaries",
+      "value": 7,
+      "demand": 2
+    },
+    {
+      "name": "Arctic (Gun)",
+      "rarity": "legendaries",
+      "value": 5,
+      "demand": 2
+    },
+    {
+      "name": "Icedriller",
+      "rarity": "legendaries",
+      "value": 5,
+      "demand": 2
+    },
+    {
+      "name": "Nightsky",
+      "rarity": "legendaries",
+      "value": 5,
+      "demand": 2
+    },
+    {
+      "name": "Ghost (Knife)",
+      "rarity": "legendaries",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Ginger (Gun)",
+      "rarity": "legendaries",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Skulls",
+      "rarity": "legendaries",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Bunnies",
+      "rarity": "legendaries",
+      "value": 4,
+      "demand": 2
+    },
+    {
+      "name": "Red Scratch",
+      "rarity": "legendaries",
+      "value": 4,
+      "demand": 1
+    },
+    {
+      "name": "Aurora (Knife)",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Spectral (Gun)",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Traveler (Knife)",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Vampire (Knife)",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Witched",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 2
+    },
+    {
+      "name": "Blue Elite",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Green Elite",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Santa's Magic",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Santa's Spirit",
+      "rarity": "legendaries",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Blue Scratch",
+      "rarity": "legendaries",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Ghost (Gun)",
+      "rarity": "legendaries",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Chromatic (Knife)",
+      "rarity": "legendaries",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Energized (Gun)",
+      "rarity": "legendaries",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Frostfade (Knife)",
+      "rarity": "legendaries",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Icecracker",
+      "rarity": "legendaries",
+      "value": 1,
+      "demand": 2
+    },
+    {
+      "name": "Red Fire",
+      "rarity": "legendaries",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Cavern (Gun)",
+      "rarity": "legendaries",
+      "value": 1,
+      "demand": 1
+    },
+    {
+      "name": "Arctic (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Chromatic (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Emerald",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Energized (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Overseer (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Predator (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ripper (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Rupture",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Tree (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Tree (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Web",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Green Fire",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Aquarium (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cupid",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cursed (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frozen (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frozen (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Midnight",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Nightstar",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Palms (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Sparkle",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Cursed (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Frostfade (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ripper (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Ginger (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Aquarium (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Palms (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Overseer (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Predator (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Rune",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Universe",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Viper",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 2
+    },
+    {
+      "name": "Fade",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Fusion",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Plasmite",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Shiny",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Splash (Knife)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Elite",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Splash (Gun)",
+      "rarity": "legendaries",
+      "value": 0,
+      "demand": 1
+    },
+    {
+      "name": "Traveler's Gun",
+      "rarity": "godlies",
+      "value": 5750,
+      "demand": 7
+    },
+    {
+      "name": "Evergun",
+      "rarity": "godlies",
+      "value": 3300,
+      "demand": 5
+    },
+    {
+      "name": "Constellation",
+      "rarity": "godlies",
+      "value": 2600,
+      "demand": 5
+    },
+    {
+      "name": "Turkey",
+      "rarity": "godlies",
+      "value": 2450,
+      "demand": 5
+    },
+    {
+      "name": "Evergreen",
+      "rarity": "godlies",
+      "value": 2425,
+      "demand": 5
+    },
+    {
+      "name": "Alienbeam",
+      "rarity": "godlies",
+      "value": 2000,
+      "demand": 5
+    },
+    {
+      "name": "Vampire's Gun",
+      "rarity": "godlies",
+      "value": 1700,
+      "demand": 5
+    },
+    {
+      "name": "Darkshot",
+      "rarity": "godlies",
+      "value": 1500,
+      "demand": 6
+    },
+    {
+      "name": "Darksword",
+      "rarity": "godlies",
+      "value": 1480,
+      "demand": 6
+    },
+    {
+      "name": "Blossom",
+      "rarity": "godlies",
+      "value": 1265,
+      "demand": 6
+    },
+    {
+      "name": "Sakura",
+      "rarity": "godlies",
+      "value": 1255,
+      "demand": 6
+    },
+    {
+      "name": "Sunrise",
+      "rarity": "godlies",
+      "value": 1150,
+      "demand": 5
+    },
+    {
+      "name": "Raygun",
+      "rarity": "godlies",
+      "value": 1150,
+      "demand": 5
+    },
+    {
+      "name": "Bauble",
+      "rarity": "godlies",
+      "value": 900,
+      "demand": 5
+    },
+    {
+      "name": "Snowcannon",
+      "rarity": "godlies",
+      "value": 800,
+      "demand": 5
+    },
+    {
+      "name": "Sunset",
+      "rarity": "godlies",
+      "value": 575,
+      "demand": 5
+    },
+    {
+      "name": "Soul",
+      "rarity": "godlies",
+      "value": 500,
+      "demand": 5
+    },
+    {
+      "name": "Spirit",
+      "rarity": "godlies",
+      "value": 490,
+      "demand": 5
+    },
+    {
+      "name": "Flora",
+      "rarity": "godlies",
+      "value": 410,
+      "demand": 5
+    },
+    {
+      "name": "Bloom",
+      "rarity": "godlies",
+      "value": 400,
+      "demand": 5
+    },
+    {
+      "name": "Rainbow Gun",
+      "rarity": "godlies",
+      "value": 330,
+      "demand": 5
+    },
+    {
+      "name": "Rainbow",
+      "rarity": "godlies",
+      "value": 320,
+      "demand": 5
+    },
+    {
+      "name": "Heart Wand",
+      "rarity": "godlies",
+      "value": 290,
+      "demand": 4
+    },
+    {
+      "name": "Watergun",
+      "rarity": "godlies",
+      "value": 270,
+      "demand": 3
+    },
+    {
+      "name": "Xenoknife",
+      "rarity": "godlies",
+      "value": 260,
+      "demand": 4
+    },
+    {
+      "name": "Xenoshot",
+      "rarity": "godlies",
+      "value": 260,
+      "demand": 4
+    },
+    {
+      "name": "Snow Dagger",
+      "rarity": "godlies",
+      "value": 260,
+      "demand": 3
+    },
+    {
+      "name": "Ocean",
+      "rarity": "godlies",
+      "value": 255,
+      "demand": 4
+    },
+    {
+      "name": "Waves",
+      "rarity": "godlies",
+      "value": 250,
+      "demand": 4
+    },
+    {
+      "name": "Flowerwood Gun",
+      "rarity": "godlies",
+      "value": 235,
+      "demand": 4
+    },
+    {
+      "name": "Flowerwood",
+      "rarity": "godlies",
+      "value": 230,
+      "demand": 4
+    },
+    {
+      "name": "Blizzard",
+      "rarity": "godlies",
+      "value": 185,
+      "demand": 3
+    },
+    {
+      "name": "Snowstorm",
+      "rarity": "godlies",
+      "value": 185,
+      "demand": 3
+    },
+    {
+      "name": "Treat",
+      "rarity": "godlies",
+      "value": 140,
+      "demand": 3
+    },
+    {
+      "name": "Sweet",
+      "rarity": "godlies",
+      "value": 135,
+      "demand": 3
+    },
+    {
+      "name": "Bat",
+      "rarity": "godlies",
+      "value": 125,
+      "demand": 2
+    },
+    {
+      "name": "Borealis",
+      "rarity": "godlies",
+      "value": 105,
+      "demand": 2
+    },
+    {
+      "name": "Australis",
+      "rarity": "godlies",
+      "value": 100,
+      "demand": 2
+    },
+    {
+      "name": "Pearlshine",
+      "rarity": "godlies",
+      "value": 90,
+      "demand": 3
+    },
+    {
+      "name": "Pearl",
+      "rarity": "godlies",
+      "value": 85,
+      "demand": 3
+    },
+    {
+      "name": "Candy",
+      "rarity": "godlies",
+      "value": 85,
+      "demand": 1
+    },
+    {
+      "name": "Heartblade",
+      "rarity": "godlies",
+      "value": 70,
+      "demand": 1
+    },
+    {
+      "name": "Luger",
+      "rarity": "godlies",
+      "value": 45,
+      "demand": 1
+    },
+    {
+      "name": "Red Luger",
+      "rarity": "godlies",
+      "value": 42,
+      "demand": 1
+    },
+    {
+      "name": "Candleflame",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Darkbringer",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Elderwood Blade",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Elderwood Revolver",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Iceblaster",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Makeshift",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Phantom",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Spectre",
+      "rarity": "godlies",
+      "value": 40,
+      "demand": 1
+    },
+    {
+      "name": "Sugar",
+      "rarity": "godlies",
+      "value": 38,
+      "demand": 1
+    },
+    {
+      "name": "Lightbringer",
+      "rarity": "godlies",
+      "value": 37,
+      "demand": 1
+    },
+    {
+      "name": "Ornament",
+      "rarity": "godlies",
+      "value": 28,
+      "demand": 1
+    },
+    {
+      "name": "Green Luger",
+      "rarity": "godlies",
+      "value": 25,
+      "demand": 1
+    },
+    {
+      "name": "Amerilaser",
+      "rarity": "godlies",
+      "value": 23,
+      "demand": 1
+    },
+    {
+      "name": "Hallowgun",
+      "rarity": "godlies",
+      "value": 23,
+      "demand": 1
+    },
+    {
+      "name": "Laser",
+      "rarity": "godlies",
+      "value": 23,
+      "demand": 1
+    },
+    {
+      "name": "Swirly Gun",
+      "rarity": "godlies",
+      "value": 23,
+      "demand": 1
+    },
+    {
+      "name": "Icebeam",
+      "rarity": "godlies",
+      "value": 20,
+      "demand": 1
+    },
+    {
+      "name": "Nightblade",
+      "rarity": "godlies",
+      "value": 20,
+      "demand": 1
+    },
+    {
+      "name": "Shark",
+      "rarity": "godlies",
+      "value": 20,
+      "demand": 1
+    },
+    {
+      "name": "Blaster",
+      "rarity": "godlies",
+      "value": 18,
+      "demand": 1
+    },
+    {
+      "name": "Iceflake",
+      "rarity": "godlies",
+      "value": 18,
+      "demand": 1
+    },
+    {
+      "name": "Plasmabeam",
+      "rarity": "godlies",
+      "value": 18,
+      "demand": 1
+    },
+    {
+      "name": "Battleaxe II",
+      "rarity": "godlies",
+      "value": 17,
+      "demand": 1
+    },
+    {
+      "name": "Ginger Luger",
+      "rarity": "godlies",
+      "value": 17,
+      "demand": 1
+    },
+    {
+      "name": "Old Glory",
+      "rarity": "godlies",
+      "value": 17,
+      "demand": 1
+    },
+    {
+      "name": "Pixel",
+      "rarity": "godlies",
+      "value": 17,
+      "demand": 1
+    },
+    {
+      "name": "Plasmablade",
+      "rarity": "godlies",
+      "value": 17,
+      "demand": 1
+    },
+    {
+      "name": "Slasher",
+      "rarity": "godlies",
+      "value": 17,
+      "demand": 1
+    },
+    {
+      "name": "Cookiecane",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Eternalcane",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Gemstone",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Gingerblade",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Gingermint",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Jinglegun",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Lugercane",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Minty",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Nebula",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Swirly Blade",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Vampire's Edge",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Virtual",
+      "rarity": "godlies",
+      "value": 15,
+      "demand": 1
+    },
+    {
+      "name": "Deathshard",
+      "rarity": "godlies",
+      "value": 13,
+      "demand": 1
+    },
+    {
+      "name": "Battleaxe",
+      "rarity": "godlies",
+      "value": 12,
+      "demand": 1
+    },
+    {
+      "name": "Bioblade",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Chill",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Clockwork",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Eternal III",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Eternal IV",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Fang",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Frostsaber",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Heat",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Spider",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Tides",
+      "rarity": "godlies",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Eternal",
+      "rarity": "godlies",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Eternal II",
+      "rarity": "godlies",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Hallow's Blade",
+      "rarity": "godlies",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Hallow's Edge",
+      "rarity": "godlies",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Handsaw",
+      "rarity": "godlies",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Xmas",
+      "rarity": "godlies",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Boneblade",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Frostbite",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Ghostblade",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Ice Dragon",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Ice Shard",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Prismatic",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Pumpking",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Saw",
+      "rarity": "godlies",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Eggblade",
+      "rarity": "godlies",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Flames",
+      "rarity": "godlies",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Snowflake",
+      "rarity": "godlies",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Winter's Edge",
+      "rarity": "godlies",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Peppermint",
+      "rarity": "godlies",
+      "value": 4,
+      "demand": 1
+    },
+    {
+      "name": "Cookieblade",
+      "rarity": "godlies",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Blue Seer",
+      "rarity": "godlies",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Purple Seer",
+      "rarity": "godlies",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Red Seer",
+      "rarity": "godlies",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Seer",
+      "rarity": "godlies",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Orange Seer",
+      "rarity": "godlies",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "Yellow Seer",
+      "rarity": "godlies",
+      "value": 2,
+      "demand": 1
+    },
+    {
+      "name": "C. Traveler's Gun",
+      "rarity": "chromas",
+      "value": 225000,
+      "demand": 9
+    },
+    {
+      "name": "Chroma Evergun",
+      "rarity": "chromas",
+      "value": 76000,
+      "demand": 8
+    },
+    {
+      "name": "Chroma Evergreen",
+      "rarity": "chromas",
+      "value": 60000,
+      "demand": 7
+    },
+    {
+      "name": "Chroma Bauble",
+      "rarity": "chromas",
+      "value": 38000,
+      "demand": 7
+    },
+    {
+      "name": "C. Vampire's Gun",
+      "rarity": "chromas",
+      "value": 35000,
+      "demand": 7
+    },
+    {
+      "name": "C. Constellation",
+      "rarity": "chromas",
+      "value": 33000,
+      "demand": 7
+    },
+    {
+      "name": "Chroma Alienbeam",
+      "rarity": "chromas",
+      "value": 30000,
+      "demand": 7
+    },
+    {
+      "name": "Chroma Raygun",
+      "rarity": "chromas",
+      "value": 14500,
+      "demand": 6
+    },
+    {
+      "name": "Chroma Sunrise",
+      "rarity": "chromas",
+      "value": 11250,
+      "demand": 6
+    },
+    {
+      "name": "C. Snowcannon",
+      "rarity": "chromas",
+      "value": 8500,
+      "demand": 6
+    },
+    {
+      "name": "Chroma Blizzard",
+      "rarity": "chromas",
+      "value": 8000,
+      "demand": 5
+    },
+    {
+      "name": "Chroma Sunset",
+      "rarity": "chromas",
+      "value": 6500,
+      "demand": 5
+    },
+    {
+      "name": "C. Snow Dagger",
+      "rarity": "chromas",
+      "value": 5750,
+      "demand": 5
+    },
+    {
+      "name": "C. Heart Wand",
+      "rarity": "chromas",
+      "value": 4750,
+      "demand": 5
+    },
+    {
+      "name": "Chroma Snowstorm",
+      "rarity": "chromas",
+      "value": 4250,
+      "demand": 5
+    },
+    {
+      "name": "Chroma Watergun",
+      "rarity": "chromas",
+      "value": 3400,
+      "demand": 5
+    },
+    {
+      "name": "Chroma Treat",
+      "rarity": "chromas",
+      "value": 3250,
+      "demand": 5
+    },
+    {
+      "name": "Chroma Sweet",
+      "rarity": "chromas",
+      "value": 2600,
+      "demand": 5
+    },
+    {
+      "name": "Chroma Ornament",
+      "rarity": "chromas",
+      "value": 2200,
+      "demand": 5
+    },
+    {
+      "name": "C. Darkbringer",
+      "rarity": "chromas",
+      "value": 75,
+      "demand": 1
+    },
+    {
+      "name": "C. Lightbringer",
+      "rarity": "chromas",
+      "value": 70,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Luger",
+      "rarity": "chromas",
+      "value": 55,
+      "demand": 1
+    },
+    {
+      "name": "C. Candleflame",
+      "rarity": "chromas",
+      "value": 45,
+      "demand": 1
+    },
+    {
+      "name": "C. Elderwood Blade",
+      "rarity": "chromas",
+      "value": 45,
+      "demand": 1
+    },
+    {
+      "name": "C. Swirly Gun",
+      "rarity": "chromas",
+      "value": 45,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Laser",
+      "rarity": "chromas",
+      "value": 42,
+      "demand": 1
+    },
+    {
+      "name": "C. Cookiecane",
+      "rarity": "chromas",
+      "value": 38,
+      "demand": 1
+    },
+    {
+      "name": "C. Deathshard",
+      "rarity": "chromas",
+      "value": 38,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Slasher",
+      "rarity": "chromas",
+      "value": 38,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fang",
+      "rarity": "chromas",
+      "value": 35,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Shark",
+      "rarity": "chromas",
+      "value": 35,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Gemstone",
+      "rarity": "chromas",
+      "value": 32,
+      "demand": 1
+    },
+    {
+      "name": "C. Gingerblade",
+      "rarity": "chromas",
+      "value": 32,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Heat",
+      "rarity": "chromas",
+      "value": 32,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Seer",
+      "rarity": "chromas",
+      "value": 32,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Saw",
+      "rarity": "chromas",
+      "value": 30,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Tides",
+      "rarity": "chromas",
+      "value": 30,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Boneblade",
+      "rarity": "chromas",
+      "value": 27,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fire Bat",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fire Bear",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "C. Fire Bunny",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fire Cat",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fire Dog",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fire Fox",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Chroma Fire Pig",
+      "rarity": "chromas",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Nik's Scythe",
+      "rarity": "ancients",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gingerscope",
+      "rarity": "ancients",
+      "value": 17000,
+      "demand": 6
+    },
+    {
+      "name": "Traveler's Axe",
+      "rarity": "ancients",
+      "value": 8400,
+      "demand": 6
+    },
+    {
+      "name": "Celestial",
+      "rarity": "ancients",
+      "value": 1800,
+      "demand": 5
+    },
+    {
+      "name": "Vampire's Axe",
+      "rarity": "ancients",
+      "value": 1150,
+      "demand": 6
+    },
+    {
+      "name": "Harvester",
+      "rarity": "ancients",
+      "value": 270,
+      "demand": 3
+    },
+    {
+      "name": "Icepiercer",
+      "rarity": "ancients",
+      "value": 180,
+      "demand": 3
+    },
+    {
+      "name": "Icebreaker",
+      "rarity": "ancients",
+      "value": 70,
+      "demand": 1
+    },
+    {
+      "name": "Batwing",
+      "rarity": "ancients",
+      "value": 45,
+      "demand": 1
+    },
+    {
+      "name": "Elderwood Scythe",
+      "rarity": "ancients",
+      "value": 45,
+      "demand": 1
+    },
+    {
+      "name": "Swirly Axe",
+      "rarity": "ancients",
+      "value": 42,
+      "demand": 1
+    },
+    {
+      "name": "Hallowscythe",
+      "rarity": "ancients",
+      "value": 32,
+      "demand": 1
+    },
+    {
+      "name": "Logchopper",
+      "rarity": "ancients",
+      "value": 18,
+      "demand": 1
+    },
+    {
+      "name": "Icewing",
+      "rarity": "ancients",
+      "value": 15,
+      "demand": 2
+    },
+    {
+      "name": "Corrupt",
+      "rarity": "uniques",
+      "value": 450,
+      "demand": 4
+    },
+    {
+      "name": "slouse's Clown (Gun)",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "slouse's Clown (Knife)",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Sharkseeker",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Dartbringer",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Candy",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Hallow",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Sugar",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Minty",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Logchopper",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Vamp's Edge",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Iceblaster",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Icebreaker",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Harvester",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Icecrusher",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Icepiercer",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Traveler's",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Gingerscythe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Gingerscope",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Vampire's Axe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Constellation",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Celestial",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Synthwave",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gold Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Candy",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Hallow",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Sugar",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Minty",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Logchopper",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Vamp's Edge",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Iceblaster",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Icebreaker",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Harvester",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Icecrusher",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Icepiercer",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Traveler's",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Gingerscythe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Gingerscope",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Vampire's Axe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Constellation",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Celestial",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Synthwave",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Silver Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Candy",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Hallow",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Sugar",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Minty",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Logchopper",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Vamp's Edge",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Iceblaster",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Icebreaker",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Harvester",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Icecrusher",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Icepiercer",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Traveler's",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Gingerscythe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Gingerscope",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Vampire's Axe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Constellation",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Celestial",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Synthwave",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Bronze Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Candy",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Hallow",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Sugar",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Minty",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Logchopper",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Vamp's Edge",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Iceblaster",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Icebreaker",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Harvester",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Swirly",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Elderwood",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Icecrusher",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Icepiercer",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Traveler's",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Gingerscythe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Gingerscope",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Purple Vampire's Axe",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Constellation",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Red Celestial",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Blue Synthwave",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Top 100 Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Top 100 Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Top 100 Placeholder",
+      "rarity": "uniques",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Ghost",
+      "rarity": "vintages",
+      "value": 10,
+      "demand": 1
+    },
+    {
+      "name": "Blood",
+      "rarity": "vintages",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "Laser",
+      "rarity": "vintages",
+      "value": 8,
+      "demand": 1
+    },
+    {
+      "name": "America",
+      "rarity": "vintages",
+      "value": 7,
+      "demand": 1
+    },
+    {
+      "name": "Prince",
+      "rarity": "vintages",
+      "value": 6,
+      "demand": 1
+    },
+    {
+      "name": "Shadow",
+      "rarity": "vintages",
+      "value": 6,
+      "demand": 1
+    },
+    {
+      "name": "Phaser",
+      "rarity": "vintages",
+      "value": 5,
+      "demand": 1
+    },
+    {
+      "name": "Cowboy",
+      "rarity": "vintages",
+      "value": 4,
+      "demand": 1
+    },
+    {
+      "name": "Golden",
+      "rarity": "vintages",
+      "value": 4,
+      "demand": 1
+    },
+    {
+      "name": "Splitter",
+      "rarity": "vintages",
+      "value": 3,
+      "demand": 1
+    },
+    {
+      "name": "Synthwave (Var. 4)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Synthwave (Var. 3)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Synthwave (Var. 2)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Synthwave (Var. 1)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gingerscythe (Var. 4)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gingerscythe (Var. 3)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gingerscythe (Var. 2)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Gingerscythe (Var. 1)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Icecrusher (Variant 4)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Icecrusher (Variant 3)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Icecrusher (Variant 2)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Icecrusher (Variant 1)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Reaver (Variant 4)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Reaver (Variant 3)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Reaver (Variant 2)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    },
+    {
+      "name": "Reaver (Variant 1)",
+      "rarity": "evos",
+      "value": 0,
+      "demand": 0
+    }
+  ]
+}
